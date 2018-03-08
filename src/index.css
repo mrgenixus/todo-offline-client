@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.todos-page .todos .todo.complete {
+  text-decoration: line-through;
+}
+
+.todos-page .error {
+  color: red;
+}
+
+
